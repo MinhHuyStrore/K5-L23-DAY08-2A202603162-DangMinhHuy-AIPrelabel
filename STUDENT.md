@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): khác (K5-L23)
 - Tài khoản GitHub: MinhHuyStrore
 - Repo bài nộp (URL): https://github.com/MinhHuyStrore/K5-L23-DAY08-2A202603162-DangMinhHuy-AIPrelabel
-- Commit chốt bài (hash): <<COMMIT>>
+- Commit chốt bài (hash): d7f78d3
 - Máy: Windows 10, 16 GB RAM, không GPU NVIDIA (Intel HD 520) — chạy toàn bộ CPU, `--device cpu --imgsz 640`
 - CVAT (Docker): cvat/server:dev (nhánh 2.81); server OOM giữa buổi nên phần export được tái lập bằng pipeline script trong repo
 
