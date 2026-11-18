@@ -1,0 +1,6 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,1,thua,2A202603162,hop #1 three_wheeler 0.91 trung voi #2 0.88 cung tren mot xe keo hang (YOLOE sinh 2 box de lap nhau khi gop nguon)
+img_006.jpg,,khong,2A202603162,"5 anh mau = 78 doi tuong; lop dung, vi tri khit theo guideline v1.0"
+img_014.jpg,,khong,2A202603162,"so lai khi soi ID: #115 la xe Asira den goc phai, #116 la phia sau xe do - 2 xe khac nhau, khong phai loi"
+img_031.jpg,330,thua,2A202603162,"hop #330 person 0.33 o le trai thuc chat la gia ao/mu mau (false positive nen, conf < 0.35)"
+img_035.jpg,373,sai_vi_tri_kich_thuoc,2A202603162,"hop #373 three_wheeler 0.46 (xich lo) chi om cho ngoi khach, thieu banh sau + khung nguoi cho dap"
