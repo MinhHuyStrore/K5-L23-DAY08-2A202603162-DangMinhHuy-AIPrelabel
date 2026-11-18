@@ -1,3 +1,5 @@
 step,images,minutes,note
 gold_manual,4,30,4 anh gold tho tay trong CVAT (P1); validate_labels OK
 model_tour,8,28,4 luot prelabel pilot tren CPU: yolo26 0.25/0.5, yoloe, yolo26+sam2.1_b (P2)
+threshold_sweep,36,12,cache conf0.05 train CPU + sweep 4 anh gold; khong lop nao dat 90% recall <=0.5 -> giu --conf 0.3
+batch_review,24,55,duyet 24 anh batch sau tiem 12 bay (phat hien 12/12, revert ve hop le cua may)
