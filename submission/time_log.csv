@@ -1,1 +1,3 @@
 step,images,minutes,note
+gold_manual,4,30,4 anh gold tho tay trong CVAT (P1); validate_labels OK
+model_tour,8,28,4 luot prelabel pilot tren CPU: yolo26 0.25/0.5, yoloe, yolo26+sam2.1_b (P2)
